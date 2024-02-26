@@ -1,0 +1,19 @@
+1. The code does not have any private methods. Its job would be to yes, suppor the translation between number and letter and word representations within the class.The classes dont need to call the function so it can stay public.\
+
+2. In order to have methods with the same name you will have to overload the classes/methods. You can overload constructors to have one take an integer and the other take in a string. You can do a similar thing with the output class. You can either have a return print of the month or a reuturn string of the month. 
+
+3. the advance method increments the integer argument to advance a certain number of months
+
+4.Yes the input method does prompt the user. The only way it shouldnt prompt the user is if the input is for the machine and not the user.
+
+5.No it only prints the month/number/abbreviation. It shouldnt if it restricts the simplicity of the code.
+
+6.You could make an arugument to ask the user to choose if they want a return print or a return string.
+
+7. The input method can read whats being put into 'cin'. it can check the length of characters and different types of characters.
+
+8. It only does one test per run. It would be easier to test single runs when programming but the final product would work better with multiple runs.
+
+9. Adaptable tests in the driver program are more useful than hard coded because they can be tweaked easily to help serve different purposes while retaining universal understanding 
+
+10. The code is designed to allow the programmer to choose the order of testing that would be more benefitial to them.
